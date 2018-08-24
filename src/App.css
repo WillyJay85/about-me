@@ -16,7 +16,7 @@ section li:nth-child(even) {
 }
 
 .App-logo {
-  animation: App-logo-spin infinite s linear;
+  animation: App-logo-spin infinite 60s linear;
   height: 100px;
 }
 
